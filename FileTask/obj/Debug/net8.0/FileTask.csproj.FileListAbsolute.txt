@@ -1,0 +1,14 @@
+D:\SAP_Task\FileTask\bin\Debug\net8.0\FileTask.exe
+D:\SAP_Task\FileTask\bin\Debug\net8.0\FileTask.deps.json
+D:\SAP_Task\FileTask\bin\Debug\net8.0\FileTask.runtimeconfig.json
+D:\SAP_Task\FileTask\bin\Debug\net8.0\FileTask.dll
+D:\SAP_Task\FileTask\bin\Debug\net8.0\FileTask.pdb
+D:\SAP_Task\FileTask\obj\Debug\net8.0\FileTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAP_Task\FileTask\obj\Debug\net8.0\FileTask.AssemblyInfoInputs.cache
+D:\SAP_Task\FileTask\obj\Debug\net8.0\FileTask.AssemblyInfo.cs
+D:\SAP_Task\FileTask\obj\Debug\net8.0\FileTask.csproj.CoreCompileInputs.cache
+D:\SAP_Task\FileTask\obj\Debug\net8.0\FileTask.dll
+D:\SAP_Task\FileTask\obj\Debug\net8.0\refint\FileTask.dll
+D:\SAP_Task\FileTask\obj\Debug\net8.0\FileTask.pdb
+D:\SAP_Task\FileTask\obj\Debug\net8.0\FileTask.genruntimeconfig.cache
+D:\SAP_Task\FileTask\obj\Debug\net8.0\ref\FileTask.dll
