@@ -12,3 +12,4 @@ D:\SAP_Task\FileTask\obj\Debug\net8.0\refint\FileTask.dll
 D:\SAP_Task\FileTask\obj\Debug\net8.0\FileTask.pdb
 D:\SAP_Task\FileTask\obj\Debug\net8.0\FileTask.genruntimeconfig.cache
 D:\SAP_Task\FileTask\obj\Debug\net8.0\ref\FileTask.dll
+D:\SAP_Task\FileTask\obj\Debug\net8.0\FileTask.sourcelink.json
